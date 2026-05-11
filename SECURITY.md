@@ -78,3 +78,7 @@ This is a **defensive red-teaming tool**. We assume:
 - Image generation uses Pillow; audio uses stdlib `wave`; video uses
   Pillow's APNG support — minimal native deps
 - The shared `llm_client.py` is vendored
+
+## Contact
+
+Responsible disclosure: **g@abejar.net**
